@@ -140,3 +140,5 @@ cython_debug/
 
 /bin
 /lib
+/media
+db.sqlite3
